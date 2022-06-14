@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e-commerce/static/css/main.e6c13ad2.css",
-    "main.js": "/e-commerce/static/js/main.04b9ff41.js",
+    "main.js": "/e-commerce/static/js/main.a01f2875.js",
     "static/js/787.7157d651.chunk.js": "/e-commerce/static/js/787.7157d651.chunk.js",
     "static/media/summer5.jpg": "/e-commerce/static/media/summer5.257fe16e2da4ccf10c4f.jpg",
     "static/media/dress1.jpg": "/e-commerce/static/media/dress1.56eb559a953fb18ccf7b.jpg",
@@ -15,7 +15,6 @@
     "static/media/dress3.jpg": "/e-commerce/static/media/dress3.5f718537d5cba58d22dd.jpg",
     "static/media/top1.jpg": "/e-commerce/static/media/top1.eb2cab1e9f2574f1eba3.jpg",
     "static/media/new3.jpg": "/e-commerce/static/media/new3.6006af4b44e05edb239f.jpg",
-    "static/media/jeans1.jpg": "/e-commerce/static/media/jeans1.7b7d991859c201eef8f7.jpg",
     "static/media/new5.jpg": "/e-commerce/static/media/new5.7685faa85a666e555702.jpg",
     "static/media/top4.jpg": "/e-commerce/static/media/top4.3bd360ab57b76ee44567.jpg",
     "static/media/new4.jpg": "/e-commerce/static/media/new4.742896cc769354df232b.jpg",
@@ -35,11 +34,11 @@
     "static/media/shirtCAT.jpg": "/e-commerce/static/media/shirtCAT.e6358d8b770d89dbcb0e.jpg",
     "index.html": "/e-commerce/index.html",
     "main.e6c13ad2.css.map": "/e-commerce/static/css/main.e6c13ad2.css.map",
-    "main.04b9ff41.js.map": "/e-commerce/static/js/main.04b9ff41.js.map",
+    "main.a01f2875.js.map": "/e-commerce/static/js/main.a01f2875.js.map",
     "787.7157d651.chunk.js.map": "/e-commerce/static/js/787.7157d651.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.04b9ff41.js"
+    "static/js/main.a01f2875.js"
   ]
 }
